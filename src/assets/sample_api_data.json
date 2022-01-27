@@ -1,0 +1,1039 @@
+{
+    "search_metadata": {
+      "id": "616fd5a7aa6c9501f68d9fee",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/a45a9a7c47a11350/616fd5a7aa6c9501f68d9fee.json",
+      "created_at": "2021-10-20 08:39:03 UTC",
+      "processed_at": "2021-10-20 08:39:03 UTC",
+      "google_url": "https://www.google.com/search?q=Valorant&oq=Valorant&tbm=isch&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/a45a9a7c47a11350/616fd5a7aa6c9501f68d9fee.html",
+      "total_time_taken": 1.06
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Valorant",
+      "google_domain": "google.com",
+      "ijn": "0",
+      "device": "desktop",
+      "tbm": "isch"
+    },
+    "search_information": {
+      "image_results_state": "Results for exact spelling",
+      "query_displayed": "Valorant"
+    },
+    "suggested_searches": [
+      {
+        "name": "game",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:game:4RVPqxrTrPM%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoAHoECAEQEQ",
+        "chips": "q:valorant,online_chips:game:4RVPqxrTrPM%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Agame%3A4RVPqxrTrPM%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a2312ea69c6bb6ff0b4d48917f4ca4c5814.jpeg"
+      },
+      {
+        "name": "twitter",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:twitter:foKRFIY_vZE%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoAXoECAEQEw",
+        "chips": "q:valorant,online_chips:twitter:foKRFIY_vZE%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Atwitter%3AfoKRFIY_vZE%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a23008703d25c3d4db0c5e4c8ff6f732b02.jpeg"
+      },
+      {
+        "name": "pc game",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:pc+game:2GVViAqiRR4%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoAnoECAEQFQ",
+        "chips": "q:valorant,online_chips:pc+game:2GVViAqiRR4%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Apc%2Bgame%3A2GVViAqiRR4%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a23dccb4e8a21a16210556048fb0a865838.jpeg"
+      },
+      {
+        "name": "valorant patch notes",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:valorant+patch+notes:-QbtqzogtIE%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoA3oECAEQFw",
+        "chips": "q:valorant,online_chips:valorant+patch+notes:-QbtqzogtIE%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Avalorant%2Bpatch%2Bnotes%3A-QbtqzogtIE%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a230c2d019caf007dab62ffb2ac2b562a57.jpeg"
+      },
+      {
+        "name": "battle royale",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:battle+royale:kpdV4NPEn7Y%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoBHoECAEQGQ",
+        "chips": "q:valorant,online_chips:battle+royale:kpdV4NPEn7Y%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Abattle%2Broyale%3AkpdV4NPEn7Y%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a23770b6fcfabaa37adb979d751e3dd00c3.jpeg"
+      },
+      {
+        "name": "riot games",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:riot+games:he4SfqW9vuA%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoBXoECAEQGw",
+        "chips": "q:valorant,online_chips:riot+games:he4SfqW9vuA%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Ariot%2Bgames%3Ahe4SfqW9vuA%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a23901dcec6c55dbf427da8f85c4149d5f7.jpeg"
+      },
+      {
+        "name": "api",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:api:g3xZ-AxK4Dk%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoBnoECAEQHQ",
+        "chips": "q:valorant,online_chips:api:g3xZ-AxK4Dk%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Aapi%3Ag3xZ-AxK4Dk%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a237cb0ceaf39ea2533c62c094bff2f7b8e.jpeg"
+      },
+      {
+        "name": "twitch",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:twitch:Gz-2_N02yok%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoB3oECAEQHw",
+        "chips": "q:valorant,online_chips:twitch:Gz-2_N02yok%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Atwitch%3AGz-2_N02yok%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a233d62aa9269d2a0ea4a87f60f6a108e89.jpeg"
+      },
+      {
+        "name": "characters",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:characters&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoCHoECAEQIQ",
+        "chips": "q:valorant,online_chips:characters",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Acharacters&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch"
+      },
+      {
+        "name": "esports",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:esports:JNGyKlTSe4s%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoCXoECAEQIg",
+        "chips": "q:valorant,online_chips:esports:JNGyKlTSe4s%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Aesports%3AJNGyKlTSe4s%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a2395b8e528c1ef699a39d39fd58c6985f9.jpeg"
+      },
+      {
+        "name": "league",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:league:xHX1v_Q0xC8%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoCnoECAEQJA",
+        "chips": "q:valorant,online_chips:league:xHX1v_Q0xC8%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Aleague%3AxHX1v_Q0xC8%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a23b0d31eff3bf89b92683715a2b622fa83.jpeg"
+      },
+      {
+        "name": "players",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:players:nvubEFgwnKU%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoC3oECAEQJg",
+        "chips": "q:valorant,online_chips:players:nvubEFgwnKU%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Aplayers%3AnvubEFgwnKU%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/cb7a138b07d3cbed655f687c0bcf0a23fb800b1eebc02268fac20e9d629756de.jpeg"
+      },
+      {
+        "name": "act",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:act:B7TT_RLZffo%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoDHoECAEQKA",
+        "chips": "q:valorant,online_chips:act:B7TT_RLZffo%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Aact%3AB7TT_RLZffo%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISUYtn9GHUfQLZhD4No87sNlh8G1qPYRjV_uYYpCLmQcqUVCR&usqp=CAU"
+      },
+      {
+        "name": "streamers",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:streamers&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoDXoECAEQKg",
+        "chips": "q:valorant,online_chips:streamers",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Astreamers&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch"
+      },
+      {
+        "name": "shooter",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:shooter:wueT8Y1psgw%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoDnoECAEQKw",
+        "chips": "q:valorant,online_chips:shooter:wueT8Y1psgw%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Ashooter%3AwueT8Y1psgw%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4tP1A9OvDJN8Cp2fI9_fDlULJUF7qY2ohYtcSeKADPU6fn_M&usqp=CAU"
+      },
+      {
+        "name": "tactical shooter",
+        "link": "https://www.google.com/search?q=Valorant&tbm=isch&chips=q:valorant,online_chips:tactical+shooter:or4mWLuFDfM%3D&hl=en-US&sa=X&ved=2ahUKEwif4-Ouy9jzAhVLZKwKHb4ADyQQ4lYoD3oECAEQLQ",
+        "chips": "q:valorant,online_chips:tactical+shooter:or4mWLuFDfM%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Avalorant%2Conline_chips%3Atactical%2Bshooter%3Aor4mWLuFDfM%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=Valorant&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7A2-5FULCSZCElqCMpP-ISK_CTjTUZVrcHwBgJzfCzA-_odoh&usqp=CAU"
+      }
+    ],
+    "images_results": [
+      {
+        "position": 1,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec294b75696008742066a1547ff308e5cd049a8335943da63487.jpeg",
+        "source": "livemint.com",
+        "title": "Everything you need to know about Valorant",
+        "link": "https://www.livemint.com/technology/tech-news/everything-you-need-to-know-about-valorant-11591217861198.html",
+        "original": "https://images.livemint.com/img/2020/06/03/1600x900/Valorant_1591218052835_1591218061187.jpg",
+        "is_product": false
+      },
+      {
+        "position": 2,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d8080a09c4e815aeed4693d97695cf2af8.jpeg",
+        "source": "riotgames.com",
+        "title": "VALORANT API Launch and Policies | Riot Games",
+        "link": "https://www.riotgames.com/en/DevRel/valorant-api-launch",
+        "original": "https://www.riotgames.com/darkroom/1000/9b3da9b650454646cf2a52a1635d5fe2:951146e9be67f6b31f556f888d7ac5a0/beta-key-art-valorant.jpg",
+        "is_product": false
+      },
+      {
+        "position": 3,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29345f273120a3c7061111248e60d59d3e5f64efb7dc93b42c.jpeg",
+        "source": "playvalorant.com",
+        "title": "VALORANT News: Updates, videos, and latest patch notes",
+        "link": "https://playvalorant.com/en-us/news/",
+        "original": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte4827b2ffb9fae0e/615648d5e289fa55888ece7e/Yoru_Killjoy_1920x1080.jpg?auto=webp&disable=upscale&height=1055",
+        "is_product": false
+      },
+      {
+        "position": 4,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec2925dd0369c487120288ba77a770378207a871b5394ff1e233.jpeg",
+        "source": "dotesports.com",
+        "title": "When does VALORANT Episode 2, Act 3 begin? - Dot Esports",
+        "link": "https://dotesports.com/valorant/news/when-does-valorant-episode-2-act-3-begin",
+        "original": "https://cdn1.dotesports.com/wp-content/uploads/2021/01/18182634/VALORANT_phx_jett_brand-scaled.jpg",
+        "is_product": false
+      },
+      {
+        "position": 5,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29ece41c5db0060c63243631ba3c44806e6219b051ea3c6f0f.jpeg",
+        "source": "polygon.com",
+        "title": "Riot wants to tell most of Valorant's story in-game - Polygon",
+        "link": "https://www.polygon.com/2020/3/4/21163705/valorant-riot-games-story-fortnite",
+        "original": "https://cdn.vox-cdn.com/thumbor/wemL47PtwE0Pps3K2PEwdfZuCrM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19755279/VALORANT_Jett_Red.jpg",
+        "is_product": false
+      },
+      {
+        "position": 6,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec294e46edf5ab7a32b80797b3de0ca609ca9cfb188f8cd79604.jpeg",
+        "source": "playvalorant.com",
+        "title": "What's New in VALORANT Episode 3 Act II",
+        "link": "https://playvalorant.com/en-us/news/game-updates/what-s-new-in-valorant-episode-3-act-ii/",
+        "original": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt962a6518612d78db/6131a93da9655d098c7cd8f0/09082021-Episode-3-Act-II-Overview-Article-Banner.jpg",
+        "is_product": false
+      },
+      {
+        "position": 7,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29878f21c5b1db7665c75a1292f132a4e0d50a64df0f302229.jpeg",
+        "source": "pcgamer.com",
+        "title": "Valorant characters guide: Every Agent in Riot's FPS | PC Gamer",
+        "link": "https://www.pcgamer.com/valorant-characters/",
+        "original": "https://cdn.mos.cms.futurecdn.net/YHdtAs36hSJUL56Lq2nxFi.jpg",
+        "is_product": false
+      },
+      {
+        "position": 8,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29e85cb2de5a4b215cdc783375592965caa7c47d555f7782e4.jpeg",
+        "source": "theverge.com",
+        "title": "Valorant is the anti-Overwatch — so can it be a more successful esport? -  The Verge",
+        "link": "https://www.theverge.com/2020/6/5/21280796/valorant-riot-games-launch-overwatch-league-blizzard-esports-competitive-gaming",
+        "original": "https://cdn.vox-cdn.com/thumbor/cKGv9X5Ub9e8LEeHyfGNrHvIa1c=/0x0:5120x2681/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20019505/V_Launch_BRAND_FOCUSED_OFFWHITE.jpg",
+        "is_product": false
+      },
+      {
+        "position": 9,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec294d7a8844b2151c3c10ff961b8f5263d90aa3301f7e5d59d3.jpeg",
+        "source": "wired.com",
+        "title": "Valorant' Is Cutthroat, Punishing, and Addictive as Hell | WIRED",
+        "link": "https://www.wired.com/story/riot-games-valorant-impressions/",
+        "original": "https://media.wired.com/photos/5ea0840cb0490300086261e3/master/pass/Cul-Reveal_ReactorA_VALORANT.jpg",
+        "is_product": false
+      },
+      {
+        "position": 10,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec292f2b92e0912e87f1767546c234a33c52202ffb413aa5fb20.jpeg",
+        "source": "pcgamer.com",
+        "title": "Valorant was played by nearly 3 million players a day during closed beta |  PC Gamer",
+        "link": "https://www.pcgamer.com/valorant-was-played-by-nearly-3-million-players-a-day-during-closed-beta/",
+        "original": "https://cdn.mos.cms.futurecdn.net/E56FpaSWYShMwByomeiN43.png",
+        "is_product": false
+      },
+      {
+        "position": 11,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d8fcbe84af37872852e57ba5f699cc2d4b.jpeg",
+        "source": "valorant.fandom.com",
+        "title": "VALORANT | Valorant Wiki | Fandom",
+        "link": "https://valorant.fandom.com/wiki/VALORANT",
+        "original": "https://static.wikia.nocookie.net/valorant/images/8/80/Valorant_Cover_Art.jpg/revision/latest/top-crop/width/360/height/360?cb=20200302232209",
+        "is_product": false
+      },
+      {
+        "position": 12,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d8c51669286e3450b6850294ebe6391087.jpeg",
+        "source": "pcgamesn.com",
+        "title": "Valorant | PCGamesN",
+        "link": "https://www.pcgamesn.com/valorant",
+        "original": "https://www.pcgamesn.com/wp-content/uploads/2021/09/Valorant-Reyna-1.jpg",
+        "is_product": false
+      },
+      {
+        "position": 13,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d83f0ea28d6eaf6ad6b29aef9248d7e0a0.jpeg",
+        "source": "dbltap.com",
+        "title": "One Year In, and Valorant is Just Getting Started",
+        "link": "https://www.dbltap.com/posts/one-year-in-and-valorant-is-just-getting-started-01fce9tm7q87",
+        "original": "https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/dataimagejpegbase649j4AAQSkZJRgABAQAAAQABAAD2wBDAA-8206822496798b155c5dcf506ba8c921.jpg",
+        "is_product": false
+      },
+      {
+        "position": 14,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d855740e1da65ee0605870105bfccd2de7.jpeg",
+        "source": "polygon.com",
+        "title": "Valorant: How Riot Games finally made something new - Polygon",
+        "link": "https://www.polygon.com/2020/3/2/21158401/valorant-how-riot-games-made-something-new",
+        "original": "https://cdn.vox-cdn.com/thumbor/CrOFOQ2Ds8NvWpAKoaLWIiDJOpE=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19755195/VALORANT.jpg",
+        "is_product": false
+      },
+      {
+        "position": 15,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d836721512c92ef158e02794e0d0523238.jpeg",
+        "source": "nme.com",
+        "title": "Rumours hint Riot is testing a 'Valorant' battle royale mode in China",
+        "link": "https://www.nme.com/news/gaming-news/rumours-hint-riot-is-testing-a-valorant-battle-royale-mode-in-china-2984734",
+        "original": "https://www.nme.com/wp-content/uploads/2020/04/riot-games-valorant-first-impressions-hero-credit-riot-games@2000x1270.jpg",
+        "is_product": false
+      },
+      {
+        "position": 16,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d8a28d70dd10688a8479113435a45140e8.jpeg",
+        "source": "esportsgen.com",
+        "title": "Riot Games Officially Started Campaign for Release of Valorant in China",
+        "link": "https://esportsgen.com/riot-games-officially-started-campaign-for-release-of-valorant-in-china-on-weibo/",
+        "original": "https://esportsgen.com/wp-content/uploads/2021/09/Screenshot-2021-09-05-234413-800x400.jpg",
+        "is_product": false
+      },
+      {
+        "position": 17,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d8062fb1d6daeb2b62801856f7c69dcc5a.jpeg",
+        "source": "dotesports.com",
+        "title": "VALORANT Patch 3.0: Full notes and updates - Dot Esports",
+        "link": "https://dotesports.com/valorant/news/here-are-the-valorant-patch-3-0-notes",
+        "original": "https://cdn1.dotesports.com/wp-content/uploads/2021/06/21095421/VALORANT_YR1_KeyArt_4k_3_.0.jpg",
+        "is_product": false
+      },
+      {
+        "position": 18,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d89a9afcb95e644a7a7138b49af64476e8.jpeg",
+        "source": "twitter.com",
+        "title": "VALORANT (@PlayVALORANT) | Twitter",
+        "link": "https://twitter.com/playvalorant",
+        "original": "https://pbs.twimg.com/profile_images/1403184855316267016/OU7KAc2z_400x400.jpg",
+        "is_product": false
+      },
+      {
+        "position": 19,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d80526f671639146ee173b0cdce74e861e.jpeg",
+        "source": "redbull.com",
+        "title": "Valorant guide: 12 tips for beginners to get better",
+        "link": "https://www.redbull.com/in-en/tips-for-valorant-beginners-guide",
+        "original": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/6/9/yteppeh3ruwmbpeogcba/valorant-ascent",
+        "is_product": false
+      },
+      {
+        "position": 20,
+        "thumbnail": "https://serpapi.com/searches/616fd5a7aa6c9501f68d9fee/images/0754f79e6c95ec29a4d0ee12e240d3d8a8e5e6a98c4e21af569bc7f0228f1366.png",
+        "source": "en.wikipedia.org",
+        "title": "Valorant - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Valorant",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/1200px-Valorant_logo_-_pink_color_version.svg.png",
+        "is_product": false
+      },
+      {
+        "position": 21,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThD8DZ78Cm0veYOo_wW8UGtW-bdD1OD5vI5w&usqp=CAU",
+        "source": "bandwagon.asia",
+        "title": "David Nottingham talks Valorant lore, fan theories, and what to expect",
+        "link": "https://www.bandwagon.asia/articles/valorant-david-nottingham-fan-theories-spotify-playlists-year-2-riot-games-jett-pheonix-reyna-lore-interview-july-2021",
+        "original": "https://cdn.filestackcontent.com/Gf9cUJIVQJCDaFXioH7H/convert?cache=true&crop=0%2C1%2C1876%2C938&crop_first=true&quality=90&w=1920",
+        "is_product": false
+      },
+      {
+        "position": 22,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zstqkXsv5E-4R4RtZYOoGwOHCqyoQODMsA&usqp=CAU",
+        "source": "theverge.com",
+        "title": "Valorant had a record-breaking day on Twitch - The Verge",
+        "link": "https://www.theverge.com/2020/4/8/21212567/valorant-riot-games-twitch-record-viewers",
+        "original": "https://cdn.vox-cdn.com/thumbor/xJlrGRqA3COw97bWFIr34yzMcnY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66623426/Reveal_Window_VALORANT.0.jpg",
+        "is_product": false
+      },
+      {
+        "position": 23,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAn3u-gUmV4l80D7529E8JT-2WRDndx3aVHg&usqp=CAU",
+        "source": "ign.com",
+        "title": "Valorant is Coming to Mobile - IGN",
+        "link": "https://www.ign.com/articles/valorant-mobile",
+        "original": "https://assets-prd.ignimgs.com/2021/06/02/valorant-1622641237888.jpg",
+        "is_product": false
+      },
+      {
+        "position": 24,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVWt5UoETisU_KIyPzjUVN1xOswZI36nT2sw&usqp=CAU",
+        "source": "indianexpress.com",
+        "title": "Valorant Mobile: How it will differ from PUBG Mobile and other battle  royale games | Technology News,The Indian Express",
+        "link": "https://indianexpress.com/article/technology/gaming/valorant-mobile-how-it-will-differ-from-pubg-mobile-and-other-battle-royale-games-7352893/",
+        "original": "https://images.indianexpress.com/2021/06/Valorant-Mobile.jpg",
+        "is_product": false
+      },
+      {
+        "position": 25,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oh86ih7riYstPXaDDAGV1tjsCB1PJo54Hw&usqp=CAU",
+        "source": "engadget.com",
+        "title": "Valorant' is harvesting talent from stagnating esports | Engadget",
+        "link": "https://www.engadget.com/valorant-esports-sinatraa-transfer-130004052.html",
+        "original": "https://s.yimg.com/uu/api/res/1.2/1CkXBRQeJoXfkGm3cXDD4A--~B/Zmk9ZmlsbDtoPTM4MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2020-04/3a994ce0-8a0b-11ea-bfbe-014be42d9fb7.cf.jpg",
+        "is_product": false
+      },
+      {
+        "position": 26,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rg71un9daoHfWDh_3v_k2WbXw5GHRBYF5g&usqp=CAU",
+        "source": "twitter.com",
+        "title": "VALORANT (@PlayVALORANT) | Twitter",
+        "link": "https://twitter.com/playvalorant",
+        "original": "https://pbs.twimg.com/media/FCEhA3DWEAwUP49.jpg",
+        "is_product": true
+      },
+      {
+        "position": 27,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzg_m9icr_58zfoj5j0Lt4s194qsub_0W-Dg&usqp=CAU",
+        "source": "taminggaming.com",
+        "title": "Valorant Game - PC, PS4 and Xbox One - Parents Guide - Family Video Game  Database",
+        "link": "https://www.taminggaming.com/game/Valorant",
+        "original": "https://www.taminggaming.com/cms/graphics/screen_shot_2428.jpg",
+        "is_product": false
+      },
+      {
+        "position": 28,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZicbs4Er1xy5MHDOwMsW3vfCXzzUjr_Ni3A&usqp=CAU",
+        "source": "playvalorant.com",
+        "title": "VALORANT: Riot Games' competitive 5v5 character-based tactical shooter",
+        "link": "https://playvalorant.com/en-us/",
+        "original": "https://playvalorant.com/assets/video/game-overview-poster-launch.jpg",
+        "is_product": false
+      },
+      {
+        "position": 29,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRnfFz0O_sqNGZMUmK_pHMLSyequBUo0rRGw&usqp=CAU",
+        "source": "esportstales.com",
+        "title": "Valorant News and Articles | Esports Tales",
+        "link": "https://www.esportstales.com/valorant",
+        "original": "https://images.squarespace-cdn.com/content/v1/59af2189c534a58c97bd63b3/1618069216509-FEOGBICQH92EHE60UIHG/Brimstone+Molotov+spot+Icebox+Valorant.jpg?format=2500w",
+        "is_product": false
+      },
+      {
+        "position": 30,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv8bPRPOmdMvMmJzbNW0E-O6VzS6ApBFa3MQ&usqp=CAU",
+        "source": "valorant.fandom.com",
+        "title": "Weapon Skins | Valorant Wiki | Fandom",
+        "link": "https://valorant.fandom.com/wiki/Weapon_Skins",
+        "original": "https://static.wikia.nocookie.net/valorant/images/f/f1/Weapon_Skins.png/revision/latest/scale-to-width-down/2876?cb=20210717140659",
+        "is_product": false
+      },
+      {
+        "position": 31,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXyH-f4UkhjWqVyzd5rkQ_jarWE8CswZEdgQ&usqp=CAU",
+        "source": "nme.com",
+        "title": "Valorant' patch 1.11 rolled back, Riot Games calls it a “nightmare”",
+        "link": "https://www.nme.com/news/gaming-news/riot-games-rolls-back-valorant-patch-1-11-after-technical-nightmare-2801798",
+        "original": "https://www.nme.com/wp-content/uploads/2020/10/100820-Valorant-New-Agent-Act-3.jpg",
+        "is_product": false
+      },
+      {
+        "position": 32,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQBrBH7ox9FhEj2LpvQJKfTbpnaGMCr1rRA&usqp=CAU",
+        "source": "gaming.amazon.com",
+        "title": "Prime Gaming | Valorant",
+        "link": "https://gaming.amazon.com/loot/valorant",
+        "original": "https://m.media-amazon.com/images/G/01/sm/amped/valorant_s3/desktop_hero_2x._CB665019425_.jpg",
+        "is_product": false
+      },
+      {
+        "position": 33,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2Ptkdo3O--7TVGO4yUDszDMi0Rm0rcMoUQ&usqp=CAU",
+        "source": "npr.org",
+        "title": "Still In Beta, Riot Games' 'Valorant' Is Buzzing : NPR",
+        "link": "https://www.npr.org/2020/05/08/852170041/can-riot-games-make-valorant-an-esports-success-signs-point-to-yes",
+        "original": "https://media.npr.org/assets/img/2020/05/07/valorant_jett_wide-a62d0cdd87d0edffbabda5a6efe7bb62e57554a5.jpg?s=1400",
+        "is_product": false
+      },
+      {
+        "position": 34,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBv54GVJ4iiW6DOlErD6osX45onMev_NWiJA&usqp=CAU",
+        "source": "win.gg",
+        "title": "Valorant becomes fourth most-watched game, category on Twitch - WIN.gg",
+        "link": "https://win.gg/news/valorant-becomes-fourth-most-watched-game-category-on-twitch/",
+        "original": "https://cdn-images.win.gg/wp/uploads/2021/07/valorant-becomes-fourth-most-watched-game-category-on-twitch-2-scaled.jpg",
+        "is_product": false
+      },
+      {
+        "position": 35,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlnc-ptttMexuHbYEzj9drt7scKnF7bjUPw&usqp=CAU",
+        "source": "eurogamer.net",
+        "title": "Riot Games' Project A is called Valorant, and it plays like a  Counter-Strike killer • Eurogamer.net",
+        "link": "https://www.eurogamer.net/articles/2020-02-03-riot-games-project-a-valorant-preview",
+        "original": "https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-02-27-17-16/riot-games-project-a-valorant-preview-1582823801023.jpg/EG11/resize/1200x-1/riot-games-project-a-valorant-preview-1582823801023.jpg",
+        "is_product": false
+      },
+      {
+        "position": 36,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbKs8cyKzws0RDT4Zh0eUTf4uxE20yIjVczQ&usqp=CAU",
+        "source": "talkesport.com",
+        "title": "This is why Riot removed Yoru from Valorant Agent Selection",
+        "link": "https://www.talkesport.com/news/this-is-why-riot-removed-yoru-from-valorant-agent-selection/",
+        "original": "https://cdn.talkesport.com/wp-content/uploads/valorant-patch-notes-2.09.jpg",
+        "is_product": false
+      },
+      {
+        "position": 37,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeGITATsZQHkpR9fc7lchrgJqRqytmmzNTA&usqp=CAU",
+        "source": "engadget.com",
+        "title": "Valorant' is getting a Gun Game-inspired mode on February 17th | Engadget",
+        "link": "https://www.engadget.com/valorant-escalation-mode-gun-game-191559042.html",
+        "original": "https://s.yimg.com/os/creatr-uploaded-images/2021-02/8bbfb7c0-7089-11eb-bb5f-71e8faf906e7",
+        "is_product": false
+      },
+      {
+        "position": 38,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgq1sLNeIf3_SSlLmhDsIKfAVC-BmrnSV3HA&usqp=CAU",
+        "source": "dexerto.com",
+        "title": "Is Valorant coming to mobile? Everything we know so far - Dexerto",
+        "link": "https://www.dexerto.com/gaming/is-valorant-coming-to-mobile-everything-we-know-so-far-1434735/",
+        "original": "https://www.dexerto.com/wp-content/uploads/2020/10/valorant-gameplay.jpg",
+        "is_product": false
+      },
+      {
+        "position": 39,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStU2s8NidvNezuT1hRaVZoPiPIibxBeTBQgQ&usqp=CAU",
+        "source": "dotesports.com",
+        "title": "How to Remake in VALORANT - Dot Esports",
+        "link": "https://dotesports.com/valorant/news/how-to-remake-valorant",
+        "original": "https://cdn1.dotesports.com/wp-content/uploads/2021/07/06062152/Valorants-sunny-new-map-Breeze-is-out-now.jpg",
+        "is_product": false
+      },
+      {
+        "position": 40,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYjgsGvZ1cxit50C-S1do_w7zAnphVRxd7g&usqp=CAU",
+        "source": "playvalorant.com",
+        "title": "VALORANT Patch Notes 2.07",
+        "link": "https://playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-2-07/",
+        "original": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte998a9c481c415bc/6070f881efddb74bd62b99d7/Patch_Notes_Highlights_2_07_04132021.jpg",
+        "is_product": false
+      },
+      {
+        "position": 41,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6YqMISCmJ1OTAbCWOKw05D9OhMK0BtnvEg&usqp=CAU",
+        "source": "youtube.com",
+        "title": "ASTRA Gameplay Reveal Trailer - VALORANT - YouTube",
+        "link": "https://www.youtube.com/watch?v=-ylVnuPWlJM",
+        "original": "https://i.ytimg.com/vi/-ylVnuPWlJM/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 42,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-e9bly7t8aVf3KWcpU5KhVR_An9tZ3f9klw&usqp=CAU",
+        "source": "playvalorant.com",
+        "title": "VALORANT Launch Ranks & Competitive",
+        "link": "https://playvalorant.com/en-us/news/dev/valorant-launch-ranks-competitive/",
+        "original": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte5a6438f76e89acf/5eec2c0f34f8f30c7cfb3025/VALORANT_ICONS_2.jpg",
+        "is_product": false
+      },
+      {
+        "position": 43,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWYk2kSrtfJVT3DuDQVcnuwiVzL-R-yyH0QA&usqp=CAU",
+        "source": "theloadout.com",
+        "title": "Valorant crosshair guide: the best crosshairs to use in ranked play | The  Loadout",
+        "link": "https://www.theloadout.com/valorant/crosshair-settings",
+        "original": "https://www.theloadout.com/wp-content/uploads/2021/04/best-valorant-crosshair.jpg",
+        "is_product": false
+      },
+      {
+        "position": 44,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fH6Hu43RwHfZTunb9792GTy0wmoym3OiXA&usqp=CAU",
+        "source": "twitch.tv",
+        "title": "VALORANT - Twitch",
+        "link": "https://www.twitch.tv/directory/game/VALORANT",
+        "original": "https://static-cdn.jtvnw.net/ttv-boxart/VALORANT.jpg",
+        "is_product": false
+      },
+      {
+        "position": 45,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxheHN7MVg9jR_Y2NM7D5eRFxyc7JwGyi2g&usqp=CAU",
+        "source": "archive.esportsobserver.com",
+        "title": "Riot Games Lays Out Agenda for VALORANT Esports, Working With Third-Parties  – ARCHIVE - The Esports Observer",
+        "link": "https://archive.esportsobserver.com/riot-agenda-valorant-esports/",
+        "original": "https://archive.esportsobserver.com/wp-content/uploads/2020/04/Valorant-Riot-Esports-Plans.jpg",
+        "is_product": false
+      },
+      {
+        "position": 46,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBn0rqrOiSRsqUOHqmVR7vPwi51WSh-23WwA&usqp=CAU",
+        "source": "esportsinsider.com",
+        "title": "Gambling on VALORANT: Key markets and important data - Esports Insider",
+        "link": "https://esportsinsider.com/2020/12/gambling-on-valorant-key-markets-and-important-data/",
+        "original": "https://resources.esportsinsider.com/esportsinsider/2020/11/VAL-e1606741938867.jpg",
+        "is_product": false
+      },
+      {
+        "position": 47,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPzuw6F0NXwxr1G5QXCeqI8M8WupwLotLX7g&usqp=CAU",
+        "source": "dexerto.com",
+        "title": "Riot promises more mid-Act Valorant content after Episode 3 lull - Dexerto",
+        "link": "https://www.dexerto.com/valorant/riot-promises-valorant-content-episode-3-lull-1620101/",
+        "original": "https://www.dexerto.com/wp-content/uploads/2021/07/28/Valorant-More-Content-Episode-3.jpg",
+        "is_product": false
+      },
+      {
+        "position": 48,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_OuzXUcvvr0xGXrV3uQ8zEwu0qACkEbYiQ&usqp=CAU",
+        "source": "youtube.com",
+        "title": "VALORANT ... For Noobs - YouTube",
+        "link": "https://www.youtube.com/watch?v=9JOOW5d3u-s",
+        "original": "https://i.ytimg.com/vi/9JOOW5d3u-s/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 49,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStP44yESccVuCJTetpnZXbCEoYAuCeiVaIAQ&usqp=CAU",
+        "source": "exputer.com",
+        "title": "Check Your VALORANT Store Without Logging Into The Client | eXputer.com",
+        "link": "https://exputer.com/news/games/check-your-valorant-store-without-logging-into-the-client/",
+        "original": "https://cdn.exputer.com/wp-content/uploads/2021/08/You-Can-Now-Check-Your-VALORANT-Store-Without-Logging-Into-The-Client-Thumbnail.png",
+        "is_product": false
+      },
+      {
+        "position": 50,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSecpU11OZNnnaFaxaz90dz94lbjmnXyiNyA&usqp=CAU",
+        "source": "gamespot.com",
+        "title": "Valorant Review - A Valiant Effort - GameSpot",
+        "link": "https://www.gamespot.com/reviews/valorant-review-a-valiant-effort/1900-6417480/",
+        "original": "https://www.gamespot.com/a/uploads/scale_landscape/1574/15747411/3680129-valorant-review-in-progress-promothumb.jpg",
+        "is_product": false
+      },
+      {
+        "position": 51,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwCQ5CGR3kLr19wVT_AuftDwMcAoFL-IRAw&usqp=CAU",
+        "source": "gfinityesports.com",
+        "title": "What is Valorant? Riot Games' latest shooter explained",
+        "link": "https://www.gfinityesports.com/valorant/valorant-riot-games-explained-guide-what-is-project-a-pc/",
+        "original": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/2e9a97e4a3901e04b24359dcbb1cd26d07859802-808x423.png?rect=28,0,752,423&w=700&h=394",
+        "is_product": false
+      },
+      {
+        "position": 52,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA3HZl3AsZMtpK5pLqxPGmoIk2ZDeC8RV9ng&usqp=CAU",
+        "source": "forbes.com",
+        "title": "Incredible New Skins Coming To 'Valorant' In New Battlepass",
+        "link": "https://www.forbes.com/sites/mikestubbs/2021/09/01/incredible-new-skins-coming-to-valorant-in-new-battlepass/",
+        "original": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612f94f959f1112a7184a8b1%2FThe-Valorant-Episode-3-ACT-II-skins%2F960x0.jpg%3Ffit%3Dscale",
+        "is_product": false
+      },
+      {
+        "position": 53,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAyBOJ3xONYiCHSOao2WNRjYVqh3kD-0XRg&usqp=CAU",
+        "source": "esports.com",
+        "title": "More details released about VALORANT's newest Agent - Valorant | esports.com",
+        "link": "https://www.esports.com/en/more-details-release-about-valorants-newest-agent-277767",
+        "original": "https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/WP%20Media%20Folder%20-%20esports-com/app/uploads/2021/09/deadeye.jpg",
+        "is_product": false
+      },
+      {
+        "position": 54,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LnJ-EhMlpZi6PSHMUR4jDgJMy_Jy8DUpmg&usqp=CAU",
+        "source": "inverse.com",
+        "title": "Valorant' Episode 3, Act 2 start date, release time, Fracture map, and  battlepass",
+        "link": "https://www.inverse.com/gaming/valorant-episode-3-act-2-start-date-release-time-fracture-map-battlepass",
+        "original": "https://imgix.bustle.com/uploads/image/2021/8/31/48b5b6d0-d4ff-4d4e-829a-50d9b30fd981-valorant.JPG?w=2000&h=640&fit=crop&crop=faces&auto=format%2Ccompress",
+        "is_product": false
+      },
+      {
+        "position": 55,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EqzqvMoaVzYYQIDcEGEqy-rSKKRNKGX5AQ&usqp=CAU",
+        "source": "rockpapershotgun.com",
+        "title": "How to access the Valorant Store | Rock Paper Shotgun",
+        "link": "https://www.rockpapershotgun.com/valorant-store-how-to-purchase-valorant-points-and-use-the-item-store",
+        "original": "https://assets2.rockpapershotgun.com/valorant-store-screenshot.png/BROK/thumbnail/1200x900/quality/100/valorant-store-screenshot.png",
+        "is_product": false
+      },
+      {
+        "position": 56,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDGHvVVOvMKLu7CzHH9JokxyqBFswgNEFl1g&usqp=CAU",
+        "source": "activeplayer.io",
+        "title": "Valorant Live Player Count and Statistics",
+        "link": "https://activeplayer.io/valorant/",
+        "original": "https://activeplayer.io/wp-content/uploads/2021/06/Valorant-Live-Player-Count-scaled.jpg",
+        "is_product": false
+      },
+      {
+        "position": 57,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4CdFEgeEcPOBn6bKTM6hKfciz3kGkIqRkg&usqp=CAU",
+        "source": "dualshockers.com",
+        "title": "Valorant New Agent Abilities Revealed: Episode 3, Release Date",
+        "link": "https://www.dualshockers.com/valorant-new-agent-abilities-release-date/",
+        "original": "https://www.dualshockers.com/static/uploads/2021/05/Valorant-New-Agent-Details-Revealed-Abilities-Release-Date-1.jpg",
+        "is_product": false
+      },
+      {
+        "position": 58,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0m2GFS4GAYk9zXuqeTwx0Sm5BhC2vWUXRMQ&usqp=CAU",
+        "source": "alphr.com",
+        "title": "How to Get Out of Bronze in Valorant",
+        "link": "https://www.alphr.com/valorant-get-out-of-bronze/",
+        "original": "https://i1.wp.com/www.alphr.com/wp-content/uploads/2021/07/Valorant-How-to-Get-Out-of-Bronze.png?resize=738%2C320&ssl=1",
+        "is_product": false
+      },
+      {
+        "position": 59,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIz68_BvuY02ZB47BWPg9hpPQ06s-jKGujA&usqp=CAU",
+        "source": "estnn.com",
+        "title": "How To Get The Among Us Crosshair In Valorant",
+        "link": "https://estnn.com/how-to-get-the-among-us-crosshair-in-valorant/",
+        "original": "https://estnn.com/wp-content/uploads/2021/08/maxresdefault_4.jpg",
+        "is_product": false
+      },
+      {
+        "position": 60,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuMpMjTeEjmOxAMm6UPB2gMbbndlau69ZOEg&usqp=CAU",
+        "source": "ftw.usatoday.com",
+        "title": "Valorant' Beginner's Guide",
+        "link": "https://ftw.usatoday.com/lists/valorant-beginners-guide",
+        "original": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/09/valorant-splash-screen.jpg?w=1000&h=600&crop=1",
+        "is_product": false
+      },
+      {
+        "position": 61,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGM3LggeXfNOpf7ZxtLxq1Az1rafKGpkSosA&usqp=CAU",
+        "source": "givemesport.com",
+        "title": "Valorant Patch Notes 3.06: Release Date, Download Size, Leaks, Game System  Updates, Social, Bug Fixes and More | GiveMeSport",
+        "link": "https://www.givemesport.com/1750547-valorant-patch-notes-306-release-date-download-size-leaks-game-system-updates-social-bug-fixes-and-more",
+        "original": "https://site-cdn.givemesport.com/images/21/09/21/fa082ac8d032a49feaaa27a4083a0270/960.jpg",
+        "is_product": false
+      },
+      {
+        "position": 62,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxpksCkmKag8bwCPDDpaEPN6I-BSTH75JhCA&usqp=CAU",
+        "source": "polygon.com",
+        "title": "Valorant reaches 14M players per month, Riot Games says - Polygon",
+        "link": "https://www.polygon.com/22463914/valorant-monthly-player-count-masters-reykjavik-concurrent-viewers",
+        "original": "https://cdn.vox-cdn.com/thumbor/2OX7AIRPqtSX0tz_U8eK1mJCtdQ=/0x0:2047x1384/1200x800/filters:focal(861x529:1187x855)/cdn.vox-cdn.com/uploads/chorus_image/image/69376660/51213874543_0d75d07af1_k.0.jpg",
+        "is_product": false
+      },
+      {
+        "position": 63,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DquK3cAfQ9y8iBMo9BDzmSi2kSaKXbNKrw&usqp=CAU",
+        "source": "gamepur.com",
+        "title": "How to sign up for the Valorant Public Beta Environment - Gamepur",
+        "link": "https://www.gamepur.com/guides/how-to-sign-up-for-the-valorant-public-beta-environment",
+        "original": "https://assets.gamepur.com/wp-content/uploads/2021/06/17135537/Valorant-PBE-Public-Test.jpg",
+        "is_product": false
+      },
+      {
+        "position": 64,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUo4PWs3XGURaXdLKc1WrWgRoMm6UB2WHdsw&usqp=CAU",
+        "source": "m.facebook.com",
+        "title": "VALORANT - The clock is ticking! The Give Back Bundle will leave the  weapons store on July 8! Half of the Weapon skins proceeds and 100% from  accessories, will go towards the",
+        "link": "https://m.facebook.com/PlayVALORANT/photos/a.222261875842294/660690678666076/?type=3",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660690678666076",
+        "is_product": false
+      },
+      {
+        "position": 65,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQnPOqOw3raMlY7jiPc8vJMjg41ECbZZ9XA&usqp=CAU",
+        "source": "pcgamesn.com",
+        "title": "Valorant release date: all the latest info on Riot's Project A | PCGamesN",
+        "link": "https://www.pcgamesn.com/valorant/release-date-project-a",
+        "original": "https://www.pcgamesn.com/wp-content/uploads/2020/03/valorant-logo.jpg",
+        "is_product": false
+      },
+      {
+        "position": 66,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnUZyo9GTUwpDaXhRFLKkF2TTBwYzfs7HwWQ&usqp=CAU",
+        "source": "looper.com",
+        "title": "Valorant Release Date, Platforms, Trailer And Gameplay",
+        "link": "https://www.looper.com/192379/valorant-release-date-platforms-trailer-and-gameplay/",
+        "original": "https://www.looper.com/img/gallery/valorant-release-date-platforms-trailer-and-gameplay/intro-1591383833.jpg",
+        "is_product": false
+      },
+      {
+        "position": 67,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRLVw00RObawr4Ju1cLdqKIfSHHEc7f8vzw&usqp=CAU",
+        "source": "instant-gaming.com · In stock",
+        "title": "Buy Valorant 1950 Riot Points Other",
+        "link": "https://www.instant-gaming.com/en/7095-buy-valorant-1950-riot-points-1950-riot-points-pc-game-europe/",
+        "original": "https://s1.gaming-cdn.com/images/products/7095/orig/valorant-1950-riot-points-1950-riot-points-pc-game-europe-cover.jpg",
+        "is_product": true,
+        "in_stock": true
+      },
+      {
+        "position": 68,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4mpR4-ItAO3SVagxdwlcTbjV9cSOihgH9g&usqp=CAU",
+        "source": "express.co.uk",
+        "title": "Valorant Act 2 release date: When is new Valorant Battle Pass and Fracture  map out? | Gaming | Entertainment | Express.co.uk",
+        "link": "https://www.express.co.uk/entertainment/gaming/1485036/Valorant-Act-2-release-date-Episode-3-When-is-Valorant-Act-2-new-map-Fracture-out",
+        "original": "https://cdn.images.express.co.uk/img/dynamic/143/750x445/1485036.jpg",
+        "is_product": false
+      },
+      {
+        "position": 69,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SzOZpbVOJjzgahnfje2CyE4md9yh8Qqo3w&usqp=CAU",
+        "source": "fanbyte.com",
+        "title": "How to Buy the Battle Pass and Unlock Everything In Valorant",
+        "link": "https://www.fanbyte.com/guides/how-to-buy-the-battle-pass-and-unlock-everything-in-valorant/",
+        "original": "https://www.fanbyte.com/wp-content/uploads/2020/05/valoranttinder1.jpg",
+        "is_product": false
+      },
+      {
+        "position": 70,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9U51X65TtzbhbU8tHHMOlVQVYjN1iLoJ4Q&usqp=CAU",
+        "source": "newindianexpress.com",
+        "title": "Why did I play Valorant?- The New Indian Express",
+        "link": "https://www.newindianexpress.com/cities/bengaluru/2021/jun/07/why-did-i-play-valorant-2312586.html",
+        "original": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/6/7/w900X450/Why_did_I.jpg?w=400&dpr=2.6",
+        "is_product": false
+      },
+      {
+        "position": 71,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShyb2WrNk7oug6GwL-A9Ug6fzDWvpR7xIL1A&usqp=CAU",
+        "source": "theverge.com",
+        "title": "Valorant is the latest big shooter to get a mobile spinoff - The Verge",
+        "link": "https://www.theverge.com/2021/6/2/22458279/valorant-mobile-spinoff-riot-games",
+        "original": "https://cdn.vox-cdn.com/thumbor/2IvJFPb5llublPcHPiBIqXQnD20=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22545725/VALORANT_Viper.jpg",
+        "is_product": false
+      },
+      {
+        "position": 72,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToR9omTgqgePu80VQKPSrI5cD0i3M4uYcagg&usqp=CAU",
+        "source": "technology.riotgames.com",
+        "title": "VALORANT Shaders and Gameplay Clarity | Riot Games Technology",
+        "link": "https://technology.riotgames.com/news/valorant-shaders-and-gameplay-clarity",
+        "original": "https://technology.riotgames.com/sites/default/files/shaders15.jpg",
+        "is_product": false
+      },
+      {
+        "position": 73,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZm5vERzC0PrQ9yLg_qUyQDz8XsY530MaDA&usqp=CAU",
+        "source": "playvalorant.com",
+        "title": "VALORANT Patch Notes 2.09",
+        "link": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-09/",
+        "original": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt42d6e9fe38b48298/6099cdd07ee89a47ff53a1a2/Patch_Notes_Highlights_2_09.jpg",
+        "is_product": false
+      },
+      {
+        "position": 74,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnSc3vCowJ0hggX-Vse1J-hoii9iZizJfm1Q&usqp=CAU",
+        "source": "shacknews.com",
+        "title": "Valorant update 2.06 patch notes adjust Viper and Yoru | Shacknews",
+        "link": "https://www.shacknews.com/article/123585/valorant-update-206-patch-notes-adjust-viper-and-yoru",
+        "original": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2021/03/astra-valorant-gameplay.png",
+        "is_product": false
+      },
+      {
+        "position": 75,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEgRKu5fUQ0x8Byrmf6XZpyLJY-Fj9dQQHQ&usqp=CAU",
+        "source": "usgamer.net",
+        "title": "Valorant Isn't Trying to Appeal to Everyone | USgamer",
+        "link": "https://www.usgamer.net/articles/valorant-hands-on-interview-appeal-to-everyone",
+        "original": "https://cdn.gamer-network.net/2020/usgamer/VALORANT-PHOENIX.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/65/valorant-hands-on-interview-appeal-to-everyone.jpg",
+        "is_product": false
+      },
+      {
+        "position": 76,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_p6lIFQTGCJTi7amDOGDGpH7UfzDD0oZoQ&usqp=CAU",
+        "source": "mobile.twitter.com",
+        "title": "VALORANT (@PlayVALORANT) | Twitter",
+        "link": "https://mobile.twitter.com/playvalorant?lang=gl",
+        "original": "https://pbs.twimg.com/media/FA8i03XWUAQwQ12.jpg",
+        "is_product": false
+      },
+      {
+        "position": 77,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGEGQfxUqWSO49YrjqEaSvLg1kkZkLOwddg&usqp=CAU",
+        "source": "oneesports.gg",
+        "title": "Valorant mobile: Release date, official news, updates, and more | ONE  Esports",
+        "link": "https://www.oneesports.gg/valorant/valorant-mobile-release-date-updates/",
+        "original": "https://oneesports.azureedge.net/cdn-data/2021/05/Valorant_RetakeEpisode2CinematicViperScreenshot-1024x576.jpg",
+        "is_product": false
+      },
+      {
+        "position": 78,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsWu6S1nUfXSVkGcgqbgbS6XqCYFZNK-SJpA&usqp=CAU",
+        "source": "esports.com",
+        "title": "Project M is a new Chinese VALORANT rip-off (and Riot Games won't be happy)  - Valorant | esports.com",
+        "link": "https://www.esports.com/en/project-m-is-a-new-chinese-valorant-rip-off-and-riot-games-wont-be-happy-258497",
+        "original": "https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/WP%20Media%20Folder%20-%20esports-com/app/uploads/2021/08/Project-M-VALORANT-Clone-hits-closed-beta.jpg",
+        "is_product": false
+      },
+      {
+        "position": 79,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAPdMgv8I2QF2GUa18ygJgn3VQvCe09olIA&usqp=CAU",
+        "source": "dotesports.com",
+        "title": "New robot VALORANT agent teased during Summer Game Fest - Dot Esports",
+        "link": "https://dotesports.com/valorant/news/new-robot-valorant-agent-teased-during-summer-game-fest",
+        "original": "https://cdn1.dotesports.com/wp-content/uploads/2021/01/22161909/KillJoy_Wallpapers_blue2-scaled.jpg",
+        "is_product": false
+      },
+      {
+        "position": 80,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgg7nspea1jsnJwMB55lwNk1FAbZTbKtP18A&usqp=CAU",
+        "source": "sportingnews.com",
+        "title": "What is 'Valorant'? Release date, beta and more from Riot Games' upcoming  release | Sporting News",
+        "link": "https://www.sportingnews.com/us/other-sports/news/what-is-valorant-release-date-platform/17gmme8q8ho9i1p0ilhifs4ww3",
+        "original": "https://images.daznservices.com/di/library/sporting_news/cd/e9/valorant-beta-ftr_nm5h57yhlvck141cwdrg19ihe.jpg?t=1526145921&quality=100",
+        "is_product": false
+      },
+      {
+        "position": 81,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yREoMbb6p25zxHxP_CZB2qGfp4RhKTu2Jw&usqp=CAU",
+        "source": "amazon.com",
+        "title": "Amazon.com: Valorant: The Extensive Game Guide: The ultimate extensive  Valorant guide explaining the game, maps, agents, weapons, tips, tricks and  more eBook : McNulty, Ray: Kindle Store",
+        "link": "https://www.amazon.com/Valorant-Extensive-ultimate-extensive-explaining-ebook/dp/B08B3XB768",
+        "original": "https://m.media-amazon.com/images/I/518E+4ye2pL.jpg",
+        "is_product": false
+      },
+      {
+        "position": 82,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoELf47calkoW2uDs4qnFwh85478oRHiKUGg&usqp=CAU",
+        "source": "digitaltrends.com",
+        "title": "What Is Valorant? Everything We Know About Riot's Shooter | Digital Trends",
+        "link": "https://www.digitaltrends.com/gaming/what-is-valorant/",
+        "original": "https://icdn.digitaltrends.com/image/digitaltrends/which-valorant-character-should-i-unlock-first-416x234.jpg",
+        "is_product": false
+      },
+      {
+        "position": 83,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30gE1Vym_atklnAhcCNSNVmC9zXYbqtZnsg&usqp=CAU",
+        "source": "gadgets.ndtv.com",
+        "title": "Valorant Out Now in India, Europe, Coming to America in a Few Hours |  Technology News",
+        "link": "https://gadgets.ndtv.com/games/news/valorant-download-india-release-date-riot-games-server-2239152",
+        "original": "https://i.gadgets360cdn.com/large/valorant_1591074256451.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 84,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDiguM3zXZmFc70sF16S_qurZKdDTpMJjPw&usqp=CAU",
+        "source": "thetimesofesports.com",
+        "title": "Indian Valorant community slashes Riot for not including India in 2021  Champions Tour - Esports",
+        "link": "https://thetimesofesports.com/indian-valorant-community-slashes-riot-for-not-including-india-in-2021-champions-tour/",
+        "original": "https://thetimesofesports.com/wp-content/uploads/2021/05/ece2b5ecdc6de98f07bdc31a8972e66f.png",
+        "is_product": false
+      },
+      {
+        "position": 85,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntdnNO33aomfHBVqBQ-_HsUxqSm5BnSxc6Q&usqp=CAU",
+        "source": "kemperlesnik.com",
+        "title": "Why Everyone Loves Valorant | KemperLesnik",
+        "link": "https://www.kemperlesnik.com/2020/04/why-everyone-loves-valorant/",
+        "original": "https://www.kemperlesnik.com/wp-content/uploads/2020/04/you-are-in-valorant-access-300x175.jpg",
+        "is_product": false
+      },
+      {
+        "position": 86,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOaI82sgAY5qpabFa25UZToJyoFS9zqJi-3g&usqp=CAU",
+        "source": "firstpost.com",
+        "title": "Riot Games officially releases Valorant in India with a new Ascent map that  is set in Italy- Technology News, Firstpost",
+        "link": "https://www.firstpost.com/tech/news-analysis/riot-games-officially-releases-valorant-in-india-with-a-new-ascent-map-that-is-set-in-italy-8440151.html",
+        "original": "https://images.firstpost.com/wp-content/uploads/2020/06/riot-games.jpg",
+        "is_product": false
+      },
+      {
+        "position": 87,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8dNhIdNmT8dnQKhP9wyPpEP7RaX6RPNk9A&usqp=CAU",
+        "source": "dallasnews.com",
+        "title": "Valorant is coming, and established esports professionals are flocking to  the new game",
+        "link": "https://www.dallasnews.com/sports/other-esports/2020/05/13/valorant-is-coming-and-established-esports-professionals-are-flocking-to-the-new-game/",
+        "original": "http://thumbor-prod-us-east-1.photo.aws.arc.pub/t0FfntExnZBLr1_M89wMGJCPsts=/arc-anglerfish-arc2-prod-dmn/public/JKUXR2DJDVARJKDW5S6SAHUPC4.png",
+        "is_product": false
+      },
+      {
+        "position": 88,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn09bZZrfJzSZTtIy9WPSbrX_UH4QsqtNGw&usqp=CAU",
+        "source": "valorant.en.uptodown.com",
+        "title": "Valorant 3.02 for Windows - Download",
+        "link": "https://valorant.en.uptodown.com/windows",
+        "original": "https://img.utdstc.com/screen/3c3/2c2/3c32c246171227f77acb4027ac9b48c0444cabe940a276bcbf8595a2958d1293:200",
+        "is_product": false
+      },
+      {
+        "position": 89,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcLO4YEIRu_Ut6RaD14tcCa1yq5Li_hv4gA&usqp=CAU",
+        "source": "gamestanza.com",
+        "title": "Does Valorant work on Mac - How to Play games on Mac? : Valorant",
+        "link": "https://gamestanza.com/2021/01/02/does-valorant-work-on-mac-how-to-play-games-on-mac-valorant/",
+        "original": "https://gamestanza.com/wp-content/uploads/2021/01/Valorant.jpg",
+        "is_product": false
+      },
+      {
+        "position": 90,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEJctHPO52kvZLnvuClrcLursGfvomRcWnA&usqp=CAU",
+        "source": "youtube.com",
+        "title": "DUELISTS // Official Launch Cinematic Trailer - VALORANT - YouTube",
+        "link": "https://www.youtube.com/watch?v=e_E9W2vsRbQ",
+        "original": "https://i.ytimg.com/vi/e_E9W2vsRbQ/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 91,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReu_AFI7qHfSxzR4Mhg1Aes28UfVJGEaeUoQ&usqp=CAU",
+        "source": "rockpapershotgun.com",
+        "title": "Valorant's new Gun Game-style mode is the chaos I crave | Rock Paper Shotgun",
+        "link": "https://www.rockpapershotgun.com/valorants-new-gun-game-style-mode-is-exactly-the-sort-of-chaos-i-crave",
+        "original": "https://assets2.rockpapershotgun.com/valorant-agent-raze.jpg/BROK/thumbnail/1200x1200/quality/100/valorant-agent-raze.jpg",
+        "is_product": false
+      },
+      {
+        "position": 92,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OQ0HFQ-8a249OH4-gFKPI40j_3q3BPPHlA&usqp=CAU",
+        "source": "techraptor.net",
+        "title": "What to Know Before Starting Valorant | TechRaptor",
+        "link": "https://techraptor.net/gaming/guides/valorant-beginner-guide-tips-tricks",
+        "original": "https://techraptor.net/sites/default/files/images/Screenshot_2020-06-04%20VALORANT%20Riot%20Games%E2%80%99%20competitive%205v5%20character-based%20tactical%20shooter.jpg",
+        "is_product": false
+      },
+      {
+        "position": 93,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03ajroXNcHYIzJoPnvNeRCEXTEKSznXNvlA&usqp=CAU",
+        "source": "thesportsrush.com",
+        "title": "Valorant Spike Guide and Tips : What is the Best way to plant the Spike in  Valorant? - The SportsRush",
+        "link": "https://thesportsrush.com/valorant-spike-guide-and-tips-what-is-the-best-way-to-plant-the-spike-in-valorant/",
+        "original": "https://cdn-wp.thesportsrush.com/2021/03/c2ac8b0f-valorant-spike.jpg",
+        "is_product": false
+      },
+      {
+        "position": 94,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReqhZUp2EWQPlqxmoQ_M8XvnHUenXUGqFP7w&usqp=CAU",
+        "source": "screenrant.com",
+        "title": "How to Use Valorant's Buy Phase Effectively (Weapons, Armor, & Abilities)",
+        "link": "https://screenrant.com/valorants-buy-phase-guide-weapons-armor-abilities/",
+        "original": "https://static2.srcdn.com/wordpress/wp-content/uploads/2020/07/Buy-Menu-Valorant.jpg",
+        "is_product": false
+      },
+      {
+        "position": 95,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd1oHlffPyt25a4FLpmk7uDD5BHzMnJ__1_w&usqp=CAU",
+        "source": "earlygame.com",
+        "title": "Valorant in 2021: What To Expect | EarlyGame",
+        "link": "https://www.earlygame.com/valorant/valorant-in-2021-what-to-expect/",
+        "original": "https://www.earlygame.com/uploads/images/_1200x630_crop_center-center_82_none/Valorant-agents.jpg?mtime=1588258342",
+        "is_product": false
+      },
+      {
+        "position": 96,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vbZOIUx6-ZRSDApMYNgos1LgF7py_vh-cQ&usqp=CAU",
+        "source": "windowscentral.com",
+        "title": "Valorant to enforce TPM requirement on Windows 11 to combat cheaters and  hackers | Windows Central",
+        "link": "https://www.windowscentral.com/valorant-windows-11-tpm-requirement",
+        "original": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/03/valorant-dragon.jpg",
+        "is_product": false
+      },
+      {
+        "position": 97,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SUqusWcbR6BXcykXWQhK4GBONcGckLVtmA&usqp=CAU",
+        "source": "eurogamer.net",
+        "title": "Riot announces Valorant Mobile • Eurogamer.net",
+        "link": "https://www.eurogamer.net/articles/2021-06-02-riot-announces-valorant-mobile",
+        "original": "https://cdn.gamer-network.net/2021/articles/2021-06-02-11-42/-1622630563102.jpg/EG11/thumbnail/1920x1074/format/jpg/quality/80",
+        "is_product": false
+      },
+      {
+        "position": 98,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSet2zKo3XKSRY4dzZwhOScx8azyyRhtnGLOA&usqp=CAU",
+        "source": "reddit.com",
+        "title": "VALORANT Competitive",
+        "link": "https://www.reddit.com/r/ValorantCompetitive/",
+        "original": "https://external-preview.redd.it/7oDuKZTZCmr1GSytJIbw1q_f9BgPnUFp-VcXxaF8MzY.jpg?width=640&crop=smart&auto=webp&s=8b29048d0144d30919b6068006ad11658910aaa5",
+        "is_product": false
+      },
+      {
+        "position": 99,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLlAwl9Ln7K5yP4AIIfTzXrk60bQLVRAwXmA&usqp=CAU",
+        "source": "dexerto.com",
+        "title": "Valorant patch 3.08 notes: Skin changes, report system updates, bug fixes -  Dexerto",
+        "link": "https://www.dexerto.com/valorant/valorant-patch-3-08-notes-skin-changes-report-system-updates-bug-fixes-1678597/",
+        "original": "https://www.dexerto.com/wp-content/uploads/2021/10/19/valorant-patch-3.08-notes.jpg",
+        "is_product": true
+      },
+      {
+        "position": 100,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipoy0U3V7D9bv15h0VR2uPn3pUBH_3zEXJQ&usqp=CAU",
+        "source": "dailyesports.gg",
+        "title": "Riot Games announces the official release date for Valorant",
+        "link": "https://www.dailyesports.gg/riot-games-announces-the-official-release-date-for-valorant/",
+        "original": "https://www.dailyesports.gg/wp-content/uploads/2020/05/Valorant-Jett-image.jpg",
+        "is_product": false
+      }
+    ]
+  }
