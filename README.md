@@ -23,7 +23,7 @@
 
 
 
-## 🤓 IS216 - Group 40 - SAUSAGE PARTY &#128021;
+## 🤓 IS216 - Group 40 &#128021;
 
 1. Bong Jia Jun - jiajun.bong.2020
 2. Lance Lim Ji Ren - lance.Lim.2020
