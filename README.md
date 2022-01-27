@@ -23,15 +23,6 @@
 
 
 
-## 🤓 IS216 - Group 40 &#128021;
-
-1. Bong Jia Jun - jiajun.bong.2020
-2. Lance Lim Ji Ren - lance.Lim.2020
-3. Liew Khye Chun - kcliew.2020
-4. NG LI YE - liye.ng.2020
-5. NG JUN KAI CALEB SHAWN - caleb.ng.2020
-
-
 ## 😍 Figma Design 
 
 Link to the figma design can be found here: https://www.figma.com/file/zuoJKFA4QEbNig1qKv3Y1q/WAD2-Final?node-id=348%3A2
